@@ -29,7 +29,7 @@ typedef struct stack_s
  * struct globals - global structure to use in the functions
  * @lifo: is stack or queue
  * @cont: current line
- * @arg: second parameter inside the current line
+ * @arg: second parameter inside the current lines
  * @head: doubly linked list
  * @fd: file descriptor
  * @buffer: input text
